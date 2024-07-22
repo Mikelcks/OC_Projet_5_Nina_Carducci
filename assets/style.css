@@ -263,6 +263,9 @@ body {
   .footer-legal a:hover {
     text-decoration: underline;
   }
+  .hidden {
+    display: none;
+  }
   @media all and (max-width: 1180px) {
     .picture {
       flex: 2;
